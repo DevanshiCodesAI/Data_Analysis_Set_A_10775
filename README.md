@@ -486,7 +486,8 @@ python python/analysis.py
 ### 📊 Python Chart
 
 <p align="center">
-<img src="outputs/python_chart.png" alt="Monthly Delivery Delay Chart" width="850"/>
+<img width="749" height="737" alt="image" src="https://github.com/user-attachments/assets/432cf683-183f-4e7e-afba-01b91425ec3b" />
+
 </p>
 
 ---
@@ -586,7 +587,8 @@ Format `Delay Incidence Rate` as percentage with two decimal places.
 ### Dashboard Screenshot
 
 <p align="center">
-<img src="outputs/powerbi_dashboard.png" alt="Power BI Dashboard" width="950"/>
+<img width="1182" height="662" alt="PowerBi Dashboard" src="https://github.com/user-attachments/assets/a5306168-ad08-4196-acc0-f37f399321ce" />
+
 </p>
 
 ---
