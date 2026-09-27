@@ -758,7 +758,7 @@ The walkthrough should cover:
 - 📁 GitHub repository structure
 
 **Duration:** 5–10 minutes
-**Video URL:** `ADD_YOUR_PUBLIC_VIDEO_URL_HERE`
+**Video URL:**[Click Here](https://drive.google.com/file/d/19YCKwYbD5GHsWcyplbcma7-d9ESjjGHf/view?usp=sharing)
 
 ---
 
