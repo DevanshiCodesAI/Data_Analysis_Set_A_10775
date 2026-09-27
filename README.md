@@ -486,8 +486,7 @@ python python/analysis.py
 ### 📊 Python Chart
 
 <p align="center">
-<img width="749" height="737" alt="image" src="https://github.com/user-attachments/assets/432cf683-183f-4e7e-afba-01b91425ec3b" />
-
+<img width="921" height="546" alt="image" src="https://github.com/user-attachments/assets/a56a5379-860e-4466-a5a1-2f5c29b777ef" />
 </p>
 
 ---
